@@ -1,0 +1,32 @@
+{
+ id:'dripboy',
+ name:'Drip Boy',
+ type:'Street',
+ skin:'#c58c66',
+ hair:'#111',
+ shirt:'#0d6efd',
+ pants:'#1a1a1a',
+ pos:'standing'
+},
+
+{
+ id:'queen',
+ name:'Queen Maya',
+ type:'Influenceuse',
+ skin:'#f1c27d',
+ hair:'#3b1f0b',
+ shirt:'#ff4d8d',
+ pants:'#222',
+ pos:'standing'
+},
+
+{
+ id:'rapper',
+ name:'Rapper X',
+ type:'Music',
+ skin:'#8d5524',
+ hair:'#000',
+ shirt:'#ff0000',
+ pants:'#111',
+ pos:'standing'
+}
